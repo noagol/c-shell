@@ -1,0 +1,3 @@
+/mnt/c/Users/noa/Documents/project/o-s/ex2/cmake-build-debug/CMakeFiles/edit_cache.dir
+/mnt/c/Users/noa/Documents/project/o-s/ex2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/mnt/c/Users/noa/Documents/project/o-s/ex2/cmake-build-debug/CMakeFiles/ex2.dir

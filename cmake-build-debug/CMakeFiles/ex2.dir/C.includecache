@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/c/Users/noa/Documents/project/o-s/ex2/main.c
+stdio.h
+-
+unistd.h
+-
+string.h
+-
+malloc.h
+-
+sys/wait.h
+-
+stdlib.h
+-
+ctype.h
+-
+sys/types.h
+-
+
